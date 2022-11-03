@@ -1,0 +1,17 @@
+WEEK 2 SESSION 1
+
+-HOUSEKEEPING:
+    -Discussion Questions due 11:59PM PST on Sunday!
+    -Assignments: Putting It Together => Prop It Up, 
+                  More Forms => Hook Form
+
+-functional component/props recap
+
+-React hooks (useState)
+-getter and setter functions
+-different ways to pass and access props
+
+-synthetic events (onClick etc)
+
+
+

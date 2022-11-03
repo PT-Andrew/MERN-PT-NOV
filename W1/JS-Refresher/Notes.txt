@@ -1,0 +1,67 @@
+WEEK 1 SESSION 1
+
+
+HOUSEKEEPING:
+
+-Course Calendar
+-Learn Platform
+-Discord/Dojo Hall
+-20 Minute Rule
+    -try to figure it out yourself for 20 minutes
+        -google
+        -internet resources
+        -W3 schools
+        -Stack Overflow
+
+    -peers
+    -TA's
+    -1:1 with instructor
+
+-Academic Integrity
+
+-Git/GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lecture 1
+
+Where are we headed? Full Stack Web Applications
+
+JavaScript Syntax Refresher
+
+-data types and structures
+
+-ES5 vs ES6 syntax
+
+-let and const
+
+-camelCase for JavaScript convention
+
+-destructuring (ES6 syntax)
+
+-rest and spread operator
+
+-arrow functions
+    -implicit return (when there is a single line of code, 
+    you have implicit return, don't need curlies. 
+    2 or more lines of code need to be in curly braces,
+    and then you must write out a return statement)
+
+-ternary operator
