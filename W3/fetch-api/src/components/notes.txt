@@ -1,0 +1,20 @@
+WEEK 3 SESSION 2
+
+
+API Calls
+
+Asynchronous JavaScript
+
+Fetch 
+
+Promises
+
+useEffect Hook
+
+
+API Application Programming Interface
+
+
+Axios Library
+
+ES7 Async/Await

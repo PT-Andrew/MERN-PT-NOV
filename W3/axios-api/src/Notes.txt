@@ -1,0 +1,21 @@
+
+Axios API Calls
+
+Async/Await Syntax (Syntactic Sugar for promises)
+
+HTTP Request/Response Cycle
+HTTP Verbs (Get,Post,Put,Delete)
+
+
+
+const arr = useState([123,4,5,6])
+
+arr = arr.splice()
+
+setter 
+
+
+
+
+
+CRUD OPERATIONS: Create Read Update Delete
