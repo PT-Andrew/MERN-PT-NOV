@@ -1,0 +1,16 @@
+HOUSEKEEPING:
+
+3 Assignments due this week!
+-Axios Pokemon API
+-Routing Practice
+-Faker API
+
+Discussion Questions as Always!
+
+React-Router
+
+npm i react-router-dom
+
+-Browser Router, Routes, and Route
+-useNavigate, useParams 
+-Link and NavLink (with active class)
