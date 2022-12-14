@@ -1,0 +1,26 @@
+WEEK 7 SESSION 1
+
+OOP AND CLASS COMPONENTS
+
+
+HOUSEKEEPING: 
+
+Assignment due this week: Authors
+Discussion Questions!
+
+--organizing your questions in Discord
+--DELETE NODE MODULES FOLDERS BEFORE ZIPPING EXAM!
+
+
+
+
+--creating classes in Javascript
+--Classes can have attributes and methods
+
+--Class Components in React
+--All components were class components until React 16.8 was released
+in 2019. Functional Components
+
+--The React Component Lifecycle
+--3 Cycles: 
+
